@@ -1,0 +1,1 @@
+# AWS_AI_Services_Fashion_MNIST
